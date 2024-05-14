@@ -1,0 +1,1848 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotspots>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>Program</Class>
+    <MethodName>Main(...)</MethodName>
+    <ShortName />
+    <Line>9</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>21</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>Lab12.Program</Class>
+    <MethodName>Main(...)</MethodName>
+    <ShortName />
+    <Line>45</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>18</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>Task4.Program</Class>
+    <MethodName>Main(...)</MethodName>
+    <ShortName />
+    <Line>25</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>18</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>N2.HTable`1</Class>
+    <MethodName>SearchByYear(...)</MethodName>
+    <ShortName />
+    <Line>68</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>16</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>N2.HTable`1</Class>
+    <MethodName>RemoveByYear(...)</MethodName>
+    <ShortName />
+    <Line>88</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>14</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>Lab12.Program</Class>
+    <MethodName>Main(...)</MethodName>
+    <ShortName />
+    <Line>10</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>14</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>T1.DoublyLinkedList`1</Class>
+    <MethodName>RemoveElement(...)</MethodName>
+    <ShortName />
+    <Line>111</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>12</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.BinaryTree`1</Class>
+    <MethodName>InsertIntoSearchTree(...)</MethodName>
+    <ShortName />
+    <Line>101</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>12</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>Equals(...)</MethodName>
+    <ShortName />
+    <Line>135</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>12</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.BinaryTree`1</Class>
+    <MethodName>FindMaxPriceVehicle()</MethodName>
+    <ShortName />
+    <Line>162</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>10</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>T1.DoublyLinkedList`1</Class>
+    <MethodName>MakeList(...)</MethodName>
+    <ShortName />
+    <Line>26</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>9</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>N2.HTable`1</Class>
+    <MethodName>Add(...)</MethodName>
+    <ShortName />
+    <Line>27</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>8</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>Add(...)</MethodName>
+    <ShortName />
+    <Line>50</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>8</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.BinaryTree`1</Class>
+    <MethodName>MakeBalancedTree(...)</MethodName>
+    <ShortName />
+    <Line>24</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>7</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>N2.HTable`1</Class>
+    <MethodName>Show()</MethodName>
+    <ShortName />
+    <Line>53</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>6</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>T1.DoublyLinkedList`1</Class>
+    <MethodName>AddElement(...)</MethodName>
+    <ShortName />
+    <Line>86</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>6</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.BinaryTree`1</Class>
+    <MethodName>ShowTree(...)</MethodName>
+    <ShortName />
+    <Line>142</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>6</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>Contains(...)</MethodName>
+    <ShortName />
+    <Line>76</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>6</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>Show()</MethodName>
+    <ShortName />
+    <Line>108</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>6</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>CopyTo(...)</MethodName>
+    <ShortName />
+    <Line>168</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>6</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>DeepClone()</MethodName>
+    <ShortName />
+    <Line>180</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>6</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>29</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>6</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>GetEnumerator()</MethodName>
+    <ShortName />
+    <Line>151</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>6</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Car</Class>
+    <MethodName>Equals(...)</MethodName>
+    <ShortName />
+    <Line>59</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>6</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.SUV</Class>
+    <MethodName>Equals(...)</MethodName>
+    <ShortName />
+    <Line>48</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>6</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>Lab12.Program</Class>
+    <MethodName>CreateObject()</MethodName>
+    <ShortName />
+    <Line>11</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>T1.DoublyLinkedList`1</Class>
+    <MethodName>ShowList(...)</MethodName>
+    <ShortName />
+    <Line>71</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>Remove(...)</MethodName>
+    <ShortName />
+    <Line>92</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>RemoveRange(...)</MethodName>
+    <ShortName />
+    <Line>140</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>Task4.Program</Class>
+    <MethodName>CreateObject()</MethodName>
+    <ShortName />
+    <Line>10</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Car</Class>
+    <MethodName>set_SeatCount(...)</MethodName>
+    <ShortName />
+    <Line>17</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Car</Class>
+    <MethodName>set_MaxSpeed(...)</MethodName>
+    <ShortName />
+    <Line>28</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.IdNumber</Class>
+    <MethodName>Equals(...)</MethodName>
+    <ShortName />
+    <Line>30</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.SortByPrice</Class>
+    <MethodName>Compare(...)</MethodName>
+    <ShortName />
+    <Line>13</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Truck</Class>
+    <MethodName>Equals(...)</MethodName>
+    <ShortName />
+    <Line>42</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>set_Year(...)</MethodName>
+    <ShortName />
+    <Line>43</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>set_GroundClearance(...)</MethodName>
+    <ShortName />
+    <Line>76</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>4</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>Lab12.Program</Class>
+    <MethodName>OverFlow(...)</MethodName>
+    <ShortName />
+    <Line>25</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>T1.DoublyLinkedList`1</Class>
+    <MethodName>CopyList(...)</MethodName>
+    <ShortName />
+    <Line>151</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.BinaryTree`1</Class>
+    <MethodName>AddToList(...)</MethodName>
+    <ShortName />
+    <Line>77</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.BinaryTree`1</Class>
+    <MethodName>FillTheSearchTree(...)</MethodName>
+    <ShortName />
+    <Line>89</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.Point`1</Class>
+    <MethodName>ToString()</MethodName>
+    <ShortName />
+    <Line>26</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>AddRange(...)</MethodName>
+    <ShortName />
+    <Line>133</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.IdNumber</Class>
+    <MethodName>set_Number(...)</MethodName>
+    <ShortName />
+    <Line>22</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.SUV</Class>
+    <MethodName>set_TerrainType(...)</MethodName>
+    <ShortName />
+    <Line>18</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Truck</Class>
+    <MethodName>set_LoadCapacity(...)</MethodName>
+    <ShortName />
+    <Line>16</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>set_Brand(...)</MethodName>
+    <ShortName />
+    <Line>25</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>set_Color(...)</MethodName>
+    <ShortName />
+    <Line>54</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>set_Price(...)</MethodName>
+    <ShortName />
+    <Line>65</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>CompareTo(...)</MethodName>
+    <ShortName />
+    <Line>149</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>2</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>N2.HTable`1</Class>
+    <MethodName>HashPos(...)</MethodName>
+    <ShortName />
+    <Line>22</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>N2.HTable`1</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>16</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>N2.Point`1</Class>
+    <MethodName>get_Data()</MethodName>
+    <ShortName />
+    <Line>11</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>N2.Point`1</Class>
+    <MethodName>get_isFound()</MethodName>
+    <ShortName />
+    <Line>12</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>N2</Assembly>
+    <Class>N2.Point`1</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>14</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>Lab12.Point`1</Class>
+    <MethodName>get_Data()</MethodName>
+    <ShortName />
+    <Line>14</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>Lab12.Point`1</Class>
+    <MethodName>get_Next()</MethodName>
+    <ShortName />
+    <Line>15</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>Lab12.Point`1</Class>
+    <MethodName>get_Pred()</MethodName>
+    <ShortName />
+    <Line>16</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>Lab12.Point`1</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>18</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>T1.DoublyLinkedList`1</Class>
+    <MethodName>MakePoint(...)</MethodName>
+    <ShortName />
+    <Line>21</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T1</Assembly>
+    <Class>T1.DoublyLinkedList`1</Class>
+    <MethodName>.ctor()</MethodName>
+    <ShortName />
+    <Line>15</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.BinaryTree`1</Class>
+    <MethodName>CreateTreeNode(...)</MethodName>
+    <ShortName />
+    <Line>64</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.BinaryTree`1</Class>
+    <MethodName>NodesToList(...)</MethodName>
+    <ShortName />
+    <Line>70</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.BinaryTree`1</Class>
+    <MethodName>ToString()</MethodName>
+    <ShortName />
+    <Line>192</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.BinaryTree`1</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>16</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.Point`1</Class>
+    <MethodName>get_Data()</MethodName>
+    <ShortName />
+    <Line>11</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.Point`1</Class>
+    <MethodName>get_left()</MethodName>
+    <ShortName />
+    <Line>12</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.Point`1</Class>
+    <MethodName>get_right()</MethodName>
+    <ShortName />
+    <Line>13</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.Point`1</Class>
+    <MethodName>.ctor()</MethodName>
+    <ShortName />
+    <Line>14</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T3</Assembly>
+    <Class>T3.Point`1</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>19</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>get_Count()</MethodName>
+    <ShortName />
+    <Line>15</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>get_IsReadOnly()</MethodName>
+    <ShortName />
+    <Line>17</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>HashPos(...)</MethodName>
+    <ShortName />
+    <Line>45</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>System.Collections.IEnumerable.GetEnumerator()</MethodName>
+    <ShortName />
+    <Line>123</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>System.Collections.Generic.IEnumerable&lt;T&gt;.GetEnumerator()</MethodName>
+    <ShortName />
+    <Line>128</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>Clear()</MethodName>
+    <ShortName />
+    <Line>162</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>ShallowClone()</MethodName>
+    <ShortName />
+    <Line>193</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>19</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.MyCollection`1</Class>
+    <MethodName>.ctor()</MethodName>
+    <ShortName />
+    <Line>24</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.Point`1</Class>
+    <MethodName>get_Data()</MethodName>
+    <ShortName />
+    <Line>12</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.Point`1</Class>
+    <MethodName>get_IsFound()</MethodName>
+    <ShortName />
+    <Line>13</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>T4</Assembly>
+    <Class>T4.Point`1</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>15</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Car</Class>
+    <MethodName>get_SeatCount()</MethodName>
+    <ShortName />
+    <Line>15</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Car</Class>
+    <MethodName>get_MaxSpeed()</MethodName>
+    <ShortName />
+    <Line>26</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Car</Class>
+    <MethodName>RandomInit()</MethodName>
+    <ShortName />
+    <Line>44</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Car</Class>
+    <MethodName>Show()</MethodName>
+    <ShortName />
+    <Line>50</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Car</Class>
+    <MethodName>ToString()</MethodName>
+    <ShortName />
+    <Line>55</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Car</Class>
+    <MethodName>get_BaseCar()</MethodName>
+    <ShortName />
+    <Line>69</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Car</Class>
+    <MethodName>.ctor()</MethodName>
+    <ShortName />
+    <Line>34</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Car</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>38</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.IdNumber</Class>
+    <MethodName>get_Number()</MethodName>
+    <ShortName />
+    <Line>20</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.IdNumber</Class>
+    <MethodName>ToString()</MethodName>
+    <ShortName />
+    <Line>39</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.IdNumber</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>13</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.SUV</Class>
+    <MethodName>get_FourWheelDrive()</MethodName>
+    <ShortName />
+    <Line>11</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.SUV</Class>
+    <MethodName>get_terrainType()</MethodName>
+    <ShortName />
+    <Line>12</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.SUV</Class>
+    <MethodName>get_TerrainType()</MethodName>
+    <ShortName />
+    <Line>16</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.SUV</Class>
+    <MethodName>RandomInit()</MethodName>
+    <ShortName />
+    <Line>25</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.SUV</Class>
+    <MethodName>Show()</MethodName>
+    <ShortName />
+    <Line>39</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.SUV</Class>
+    <MethodName>ToString()</MethodName>
+    <ShortName />
+    <Line>44</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.SUV</Class>
+    <MethodName>.ctor()</MethodName>
+    <ShortName />
+    <Line>32</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.SUV</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>33</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Truck</Class>
+    <MethodName>get_LoadCapacity()</MethodName>
+    <ShortName />
+    <Line>14</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Truck</Class>
+    <MethodName>RandomInit()</MethodName>
+    <ShortName />
+    <Line>28</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Truck</Class>
+    <MethodName>Show()</MethodName>
+    <ShortName />
+    <Line>33</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Truck</Class>
+    <MethodName>ToString()</MethodName>
+    <ShortName />
+    <Line>38</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Truck</Class>
+    <MethodName>.ctor()</MethodName>
+    <ShortName />
+    <Line>22</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Truck</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>23</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>get_Brand()</MethodName>
+    <ShortName />
+    <Line>23</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>Clone()</MethodName>
+    <ShortName />
+    <Line>32</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>ShallowCopy()</MethodName>
+    <ShortName />
+    <Line>36</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>get_Year()</MethodName>
+    <ShortName />
+    <Line>41</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>get_Color()</MethodName>
+    <ShortName />
+    <Line>52</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>get_Price()</MethodName>
+    <ShortName />
+    <Line>63</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>get_GroundClearance()</MethodName>
+    <ShortName />
+    <Line>74</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>get_Id()</MethodName>
+    <ShortName />
+    <Line>82</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>Show()</MethodName>
+    <ShortName />
+    <Line>101</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>ToString()</MethodName>
+    <ShortName />
+    <Line>105</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>Init()</MethodName>
+    <ShortName />
+    <Line>109</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>RandomInit()</MethodName>
+    <ShortName />
+    <Line>123</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>CompareTo(...)</MethodName>
+    <ShortName />
+    <Line>144</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>.ctor()</MethodName>
+    <ShortName />
+    <Line>83</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>.ctor(...)</MethodName>
+    <ShortName />
+    <Line>89</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+  <Hotspot>
+    <Assembly>VehicleLibrary1</Assembly>
+    <Class>VehicleLibrary1.Vehicle</Class>
+    <MethodName>.cctor()</MethodName>
+    <ShortName />
+    <Line>16</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>1</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+</Hotspots>

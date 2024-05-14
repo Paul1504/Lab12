@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "O5P538ZWol6Eq8VH9LLyPJrvHLa3iumW92IqF0lM9Y/n4d1iOxaTN4JY43nJw7QQOBJADwOW38SUVVqaqdaZtQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Lab12\\TestHTab\\TestHTab.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NET.Test.Sdk"
+    }
+  ]
+}

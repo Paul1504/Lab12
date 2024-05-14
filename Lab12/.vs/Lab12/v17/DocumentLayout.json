@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Lab12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47E0595-15B8-4C5D-8240-F9D82A1762A1}|T4\\T4.csproj|c:\\users\\user\\source\\repos\\lab12\\t4\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47E0595-15B8-4C5D-8240-F9D82A1762A1}|T4\\T4.csproj|solutionrelative:t4\\mycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47E0595-15B8-4C5D-8240-F9D82A1762A1}|T4\\T4.csproj|c:\\users\\user\\source\\repos\\lab12\\t4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47E0595-15B8-4C5D-8240-F9D82A1762A1}|T4\\T4.csproj|solutionrelative:t4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47E0595-15B8-4C5D-8240-F9D82A1762A1}|T4\\T4.csproj|c:\\users\\user\\source\\repos\\lab12\\t4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47E0595-15B8-4C5D-8240-F9D82A1762A1}|T4\\T4.csproj|solutionrelative:t4\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1AC60E-9853-4F24-A0D2-123BDD952E2D}|N2\\N2.csproj|c:\\users\\user\\source\\repos\\lab12\\n2\\htable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D1AC60E-9853-4F24-A0D2-123BDD952E2D}|N2\\N2.csproj|solutionrelative:n2\\htable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6C642-7E50-454C-8BCE-67B652FD41BD}|Ts2\\T3.csproj|c:\\users\\user\\source\\repos\\lab12\\ts2\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6C642-7E50-454C-8BCE-67B652FD41BD}|Ts2\\T3.csproj|solutionrelative:ts2\\binarytree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6C642-7E50-454C-8BCE-67B652FD41BD}|Ts2\\T3.csproj|c:\\users\\user\\source\\repos\\lab12\\ts2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7A6C642-7E50-454C-8BCE-67B652FD41BD}|Ts2\\T3.csproj|solutionrelative:ts2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6414194C-A3C8-45AD-BFB8-0B82437431EE}|TestT1\\TestT1.csproj|c:\\users\\user\\source\\repos\\lab12\\testt1\\tst4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6414194C-A3C8-45AD-BFB8-0B82437431EE}|TestT1\\TestT1.csproj|solutionrelative:testt1\\tst4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47E0595-15B8-4C5D-8240-F9D82A1762A1}|T4\\T4.csproj|c:\\users\\user\\source\\repos\\lab12\\t4\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{A47E0595-15B8-4C5D-8240-F9D82A1762A1}|T4\\T4.csproj|solutionrelative:t4\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7A6C642-7E50-454C-8BCE-67B652FD41BD}|Ts2\\T3.csproj|c:\\users\\user\\source\\repos\\lab12\\ts2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C7A6C642-7E50-454C-8BCE-67B652FD41BD}|Ts2\\T3.csproj|solutionrelative:ts2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3781F3A4-4F21-4813-ABF7-138398E83796}|Lab12\\T1.csproj|c:\\users\\user\\source\\repos\\lab12\\lab12\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{3781F3A4-4F21-4813-ABF7-138398E83796}|Lab12\\T1.csproj|solutionrelative:lab12\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D1AC60E-9853-4F24-A0D2-123BDD952E2D}|N2\\N2.csproj|c:\\users\\user\\source\\repos\\lab12\\n2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{6D1AC60E-9853-4F24-A0D2-123BDD952E2D}|N2\\N2.csproj|solutionrelative:n2\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab12\\T4\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "T4\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab12\\T4\\ClassDiagram1.cd",
+              "RelativeToolTip": "T4\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-14T19:02:52.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab12\\Ts2\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Ts2\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab12\\Ts2\\ClassDiagram1.cd",
+              "RelativeToolTip": "Ts2\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-14T19:01:20.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TsT4.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab12\\TestT1\\TsT4.cs",
+              "RelativeDocumentMoniker": "TestT1\\TsT4.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab12\\TestT1\\TsT4.cs",
+              "RelativeToolTip": "TestT1\\TsT4.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswG0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:46:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab12\\T4\\Point.cs",
+              "RelativeDocumentMoniker": "T4\\Point.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab12\\T4\\Point.cs",
+              "RelativeToolTip": "T4\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:19:32.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCollection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab12\\T4\\MyCollection.cs",
+              "RelativeDocumentMoniker": "T4\\MyCollection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab12\\T4\\MyCollection.cs",
+              "RelativeToolTip": "T4\\MyCollection.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAxwJsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:10:13.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab12\\T4\\Program.cs",
+              "RelativeDocumentMoniker": "T4\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab12\\T4\\Program.cs",
+              "RelativeToolTip": "T4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:10:14.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab12\\Ts2\\Program.cs",
+              "RelativeDocumentMoniker": "Ts2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab12\\Ts2\\Program.cs",
+              "RelativeToolTip": "Ts2\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwC8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:10:25.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BinaryTree.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab12\\Ts2\\BinaryTree.cs",
+              "RelativeDocumentMoniker": "Ts2\\BinaryTree.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab12\\Ts2\\BinaryTree.cs",
+              "RelativeToolTip": "Ts2\\BinaryTree.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:23:31.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab12\\N2\\HTable.cs",
+              "RelativeDocumentMoniker": "N2\\HTable.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab12\\N2\\HTable.cs",
+              "RelativeToolTip": "N2\\HTable.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:21:30.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab12\\Lab12\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Lab12\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab12\\Lab12\\ClassDiagram1.cd",
+              "RelativeToolTip": "Lab12\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-14T19:00:10.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab12\\N2\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "N2\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab12\\N2\\ClassDiagram1.cd",
+              "RelativeToolTip": "N2\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-14T18:58:49.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

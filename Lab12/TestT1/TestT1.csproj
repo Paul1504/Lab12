@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.6.0" />
+    <PackageReference Include="MSTest.TestAdapter" Version="2.2.10" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.2.10" />
+    <PackageReference Include="coverlet.collector" Version="3.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lab12\T1.csproj" />
+    <ProjectReference Include="..\N2\N2.csproj" />
+    <ProjectReference Include="..\T4\T4.csproj" />
+    <ProjectReference Include="..\Ts2\T3.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="VehicleLibrary1">
+      <HintPath>..\..\VehicleLibrary1\VehicleLibrary1\obj\Debug\net7.0\VehicleLibrary1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
